@@ -1,0 +1,44 @@
+.profile {
+	width: 400px;
+}
+
+img{
+	height: 150px;
+	border-radius: 90%;
+	align-items: left;
+	display: flex;
+}
+
+h1{
+	color: red;
+	font-family: arial;
+	font-weight: bold;
+	font-size: 50px;
+	text-align: left;
+	text-indent: 50px;
+	border-radius: 50%;
+	margin-top: 20px;
+}
+h2{
+	color: red;
+	font-family: arial;
+	font-weight: bold;
+	font-size: 30px;
+	text-align: left;
+	text-indent: 50px;
+}
+
+
+img{
+	height: 50px;
+	border-radius: 250%;
+	margin-bottom: 10px;
+	align-items: left;
+}
+p{
+	font-style: italic;
+	font-size: 20px;
+}
+li{
+	font-size: 30px;
+}
